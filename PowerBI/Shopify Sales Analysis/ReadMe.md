@@ -1,4 +1,5 @@
 # 📊 Shopify Sales & Customer Funnel Report
+<img width="506" alt="image" src="https://github.com/user-attachments/assets/05de2afd-6efd-4362-9aad-d43d26a1abe1" />
 
 ## 🔍 Project Overview
 
